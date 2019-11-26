@@ -1,0 +1,16 @@
+<code_scheme name="Default" version="173">
+  <Objective-C>
+    <option name="METHOD_CALL_ARGUMENTS_WRAP" value="2" />
+  </Objective-C>
+  <SwiftCodeStyleSettings>
+    <option name="INDENT_DIRECTIVE_CHILDREN" value="true" />
+    <option name="CONDITION_CLAUSES_WRAP" value="5" />
+  </SwiftCodeStyleSettings>
+  <codeStyleSettings language="Swift">
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
+    <option name="INDENT_CASE_FROM_SWITCH" value="true" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="2" />
+  </codeStyleSettings>
+</code_scheme>
